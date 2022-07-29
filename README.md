@@ -35,6 +35,7 @@ GitLab released GitLab Version 11.0 in June of 2018 which included many major ch
 **NOTICE**:  
 As of GitLab 11.0 support for the GitLab API v3 has been removed from the GitLab server (see https://about.gitlab.com/2018/06/01/api-v3-removal-impending/). Support for GitLab API v3 will be removed from this library sometime in 2019. If you are utilizing the v3 support, please update your code to use GitLab API v4.
 
+dev add
 ---
 ## Using GitLab4J-API
 
